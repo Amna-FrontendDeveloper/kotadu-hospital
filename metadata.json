@@ -1,0 +1,6 @@
+{
+  "name": "Kot Addu General Hospital - Punjab Healthcare",
+  "description": "Modern hospital visual and healthcare web portal for Kot Addu, Punjab, Pakistan, featuring 24/7 emergency trauma care, outpatient clinics, and appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
